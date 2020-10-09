@@ -1,0 +1,8 @@
+cat > poolMetaData.json << EOF
+{
+"name": "[BALT] Baltics Pool - LT, LV, EE",
+"description": "Happy staking and rewards with Baltics Pool! Please join our Telegram channel https://t.me/balt_stakepool_baltics",
+"ticker": "BALT",
+"homepage": "https://mimetika.eu"
+}
+EOF
